@@ -1,0 +1,4 @@
+waiting {
+    timeout = 2
+}
+
